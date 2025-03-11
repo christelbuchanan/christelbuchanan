@@ -29,18 +29,25 @@ A strategic partnership with Bloomberg transforming content consumption by allow
 
 ## 🔭 **Background**
 
-- **AI Masters** at University of Oxford
-- Former **Head of Content** at Twitter
-- Previous **CMO** at Zilliqa (Web3 pioneer)
+- **Dual Masters** from University of Oxford in AI and Major Programme Management
+- Twitter's **10th international hire** and helped scale global operations
+- Former **VP of Asia** at Brandwatch (acquired for $400M)
+- Previous **early team member** at Zilliqa (Web3 pioneer)
 - Led initiatives that transformed how people create and capture value online
 
 ## 💡 **Vision**
 
 I founded Pivotal with a mission to rebuild the internet's economic DNA. We're creating infrastructure that turns:
-- Passive consumption into active earning
 - Ideas into applications without coding barriers
-- Static assets into productive investments
+- Passive consumption into active earning
 - Creative energy into autonomous value
+
+## 📱 **Projects & Contributions**
+
+- Pioneered conversational programming with ChatAndBuild
+- Developed novel Bitcoin staking mechanisms for PivotalChain
+- Created new economic models for content consumption with EarnTV
+- Leading the "prompt coding revolution" transforming 5M developers into 500M creators
 
 ## 🌐 **Speaking & Thought Leadership**
 
