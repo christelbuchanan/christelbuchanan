@@ -37,7 +37,7 @@ Where creators in Web2 were forced to monetise through platform-facilitated ad r
 
 ## 💡 **Vision**
 
-I founded Pivotal with a mission to rebuild the internet's economic DNA. We're creating infrastructure that turns:
+To rebuild the internet's economic DNA. We're creating infrastructure that turns:
 - Ideas into applications without coding barriers
 - Passive consumption into active earning
 - Creative energy into autonomous value
