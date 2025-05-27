@@ -12,7 +12,7 @@ _Build anything. Own everything_
 
 ## 🚀 **About Me**
 
-Pioneering the shift from the Attention Economy to the Intention Economy. I believe in a future where technology amplifies human creativity rather than extracting human attention.
+I believe in a future where technology amplifies human creativity rather than extracting human attention.
 
 
 ## 💻 **Projects I have built**
