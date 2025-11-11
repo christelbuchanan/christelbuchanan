@@ -18,7 +18,9 @@ I believe in a future where technology amplifies human creativity rather than ex
 ## 💻 **Projects I have built**
 
 ### [Non-Fungible Agents](https://github.com/christelbuchanan/bep007-non-fungible-agents-nfa/tree/main)
-Where creators in Web2 were forced to monetise through platform-facilitated ad revenue or paywalled subscriptions, ChatAndBuild reimagines monetisation at the identity layer. NFAs, minted on the BNB Chain under the BAP-578 standard, allow users to own, customise, and trade programmable AI agents. Each NFA represents a unique persona with embedded memory, voice, and interaction patterns—effectively acting as a digital twin or co-creator.
+BAP-578 defines a standardized framework for Non-Fungible Agents (NFAs) - intelligent, autonomous digital entities that combine the ownership guarantees of NFTs with the adaptive capabilities of artificial intelligence. This standard merges the uniqueness of NFTs with autonomous functionality, positioning BNB Chain as the home for decentralized automation.
+
+The standard addresses the critical gap between traditional NFTs (which provide uniqueness and ownership) and the need for standardized interfaces that enable autonomous behavior and cross-platform agent interactions. BAP-578 provides a complete framework for creating, managing, and governing autonomous agent tokens with optional learning capabilities that allow agents to evolve and improve over time.
 https://github.com/bnb-chain/BEPs/blob/master/BAPs/BAP-578.md 
 
 ### [ChatAndBuild.com](https://chatandbuild.com)
