@@ -23,7 +23,7 @@ BAP-578 defines a standardized framework for Non-Fungible Agents (NFAs) - intell
 The standard addresses the critical gap between traditional NFTs (which provide uniqueness and ownership) and the need for standardized interfaces that enable autonomous behavior and cross-platform agent interactions. BAP-578 provides a complete framework for creating, managing, and governing autonomous agent tokens with optional learning capabilities that allow agents to evolve and improve over time.
 https://github.com/bnb-chain/BEPs/blob/master/BAPs/BAP-578.md 
 
-### [ChatAndBuild.com](https://chatandbuild.com)
+### [ChatAndBuild](https://chatandbuild.com)
 ChatAndBuild empowers users to create web applications, games, tools, and platforms simply by describing what they want to build. Our AI-powered platform handles the coding, deployment, and hosting automatically, while users maintain complete ownership of their creations.
 With an intuitive interface and seamless integrations with GitHub, Supabase, and other essential tools, ChatAndBuild bridges the gap between no-code simplicity and coding flexibility—offering both ease of use and unlimited creative potential.
 
@@ -52,17 +52,10 @@ To rebuild the internet's economic DNA. We're creating infrastructure that turns
 - Created a new category through Non-Fungible Agents (NFAs)
 - Built a community through Codechella.org
 
-## 🌐 **Speaking & Thought Leadership**
-
-My work spans the intersection of AI and human-centered technology. I speak regularly on:
-- The Intention Economy revolution
-- AI-powered creation platforms
-- Bitcoin productivity systems
-- The future of creator economics
 
 ## 🔗 **Connect**
 
-I'm always interested in connecting with fellow builders and visionaries who share our passion for empowering human intention.
+I'm always interested in connecting with fellow builders and visionaries who share our passion for empowerment and accessibility.
 
 <div align="center">
 
