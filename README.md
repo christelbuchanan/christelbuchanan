@@ -24,7 +24,11 @@ The standard addresses the critical gap between traditional NFTs (which provide 
 https://github.com/bnb-chain/BEPs/blob/master/BAPs/BAP-578.md 
 
 ### [ChatAndBuild.com](https://chatandbuild.com)
-Transforming how applications are created. Build and deploy fully functional apps through natural conversation - type it, or speak it! ChatAndBuild turns ideas into reality in minutes, not months – no coding required. Our platform achieved a 97% first-try success rate and is revolutionising the $230B app development market.
+ChatAndBuild empowers users to create web applications, games, tools, and platforms simply by describing what they want to build. Our AI-powered platform handles the coding, deployment, and hosting automatically, while users maintain complete ownership of their creations.
+With an intuitive interface and seamless integrations with GitHub, Supabase, and other essential tools, ChatAndBuild bridges the gap between no-code simplicity and coding flexibility—offering both ease of use and unlimited creative potential.
+
+Our mission is to democratise technology creation, transforming the 99.7% of people who can't code but have ideas into empowered builders shaping our digital future.
+https://claude.com/customers/chatandbuild
 
 
 ## 🔭 **Background**
