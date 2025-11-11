@@ -23,9 +23,6 @@ Where creators in Web2 were forced to monetise through platform-facilitated ad r
 ### [ChatAndBuild.com](https://chatandbuild.com)
 Transforming how applications are created. Build and deploy fully functional apps through natural conversation - type it, or speak it! ChatAndBuild turns ideas into reality in minutes, not months – no coding required. Our platform achieved a 97% first-try success rate and is revolutionising the $230B app development market.
 
-### [PivotalChain](https://pivotalchain.io)
-Making Bitcoin productive through a secure BTC staking infrastructure - backed by Babylon Labs, integration with Ceffu.
-
 
 ## 🔭 **Background**
 
@@ -45,9 +42,8 @@ To rebuild the internet's economic DNA. We're creating infrastructure that turns
 ## 📱 **Projects & Contributions**
 
 - Pioneered conversational programming with ChatAndBuild
-- Developed novel Bitcoin staking mechanisms for PivotalChain
 - Created a new category through Non-Fungible Agents (NFAs)
-- Leading the "prompt coding revolution" transforming 5M developers into 500M creators
+- Built a community through Codechella.org
 
 ## 🌐 **Speaking & Thought Leadership**
 
