@@ -18,7 +18,7 @@ I believe in a future where technology amplifies human creativity rather than ex
 ## 💻 **Projects I have built**
 
 ### [Non-Fungible Agents](https://github.com/christelbuchanan/bep007-non-fungible-agents-nfa/tree/main)
-Where creators in Web2 were forced to monetise through platform-facilitated ad revenue or paywalled subscriptions, ChatAndBuild reimagines monetisation at the identity layer. NFAs, minted on the BNB Chain under the BEP-007 standard, allow users to own, customise, and trade programmable AI agents. Each NFA represents a unique persona with embedded memory, voice, and interaction patterns—effectively acting as a digital twin or co-creator.
+Where creators in Web2 were forced to monetise through platform-facilitated ad revenue or paywalled subscriptions, ChatAndBuild reimagines monetisation at the identity layer. NFAs, minted on the BNB Chain under the BAP-578 standard, allow users to own, customise, and trade programmable AI agents. Each NFA represents a unique persona with embedded memory, voice, and interaction patterns—effectively acting as a digital twin or co-creator.
 
 ### [ChatAndBuild.com](https://chatandbuild.com)
 Transforming how applications are created. Build and deploy fully functional apps through natural conversation - type it, or speak it! ChatAndBuild turns ideas into reality in minutes, not months – no coding required. Our platform achieved a 97% first-try success rate and is revolutionising the $230B app development market.
