@@ -3,7 +3,7 @@
 <div align="center">
 
 **Founder & CEO, ChatAndBuild**
-_Build anything. Own everything_
+_Invented Non-Fungible Agents_
 
 [![Twitter](https://img.shields.io/badge/Twitter-@LADYXTEL-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ladyxtel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christel_Buchanan-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/christelquek)
