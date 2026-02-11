@@ -12,7 +12,7 @@ _Invented Non-Fungible Agents_
 
 ## 🚀 **About Me**
 
-I believe in a future where technology amplifies human creativity rather than extracting human attention.
+I believe in a future where technology amplifies human creativity
 
 
 ## 💻 **Projects I have built**
