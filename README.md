@@ -1,64 +1,147 @@
+
 # Christel Buchanan
 
 <div align="center">
 
-**Founder & CEO, ChatAndBuild**
-_Invented Non-Fungible Agents_
+### Founder & CEO, ChatAndBuild
 
-[![Twitter](https://img.shields.io/badge/Twitter-@LADYXTEL-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ladyxtel)
+**Building ChatChat, powered by the Living Brain**
+
+<br />
+
+[![ChatChat](https://img.shields.io/badge/ChatChat-Agents-000000?style=for-the-badge)](https://chatchat.com)
+[![Living Brain](https://img.shields.io/badge/Living_Brain-Explore-6C5CE7?style=for-the-badge)](https://livingbrain.com)
+[![ChatAndBuild](https://img.shields.io/badge/ChatAndBuild-Build-22C55E?style=for-the-badge)](https://chatandbuild.com)
+
+<br />
+
+[![X](https://img.shields.io/badge/X-@LADYXTEL-000000?style=for-the-badge&logo=x)](https://twitter.com/ladyxtel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christel_Buchanan-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/christelquek)
 
 </div>
 
-## 🚀 **About Me**
+---
 
-I believe in a future where technology amplifies human creativity
+## 🚀 About Me
 
+I’m the founder of [ChatAndBuild](https://chatandbuild.com), an AI company developing products and infrastructure for the age of abundant intelligence.
 
-## 💻 **Projects I have built**
+Our mission is to make advanced intelligence more accessible, practical, and empowering—grounded in one simple belief:
 
-### [Non-Fungible Agents](https://github.com/christelbuchanan/bep007-non-fungible-agents-nfa/tree/main)
-BAP-578 defines a standardized framework for Non-Fungible Agents (NFAs) - intelligent, autonomous digital entities that combine the ownership guarantees of NFTs with the adaptive capabilities of artificial intelligence. This standard merges the uniqueness of NFTs with autonomous functionality, positioning BNB Chain as the home for decentralized automation.
+> **Anyone can chat and build.**
 
-The standard addresses the critical gap between traditional NFTs (which provide uniqueness and ownership) and the need for standardized interfaces that enable autonomous behavior and cross-platform agent interactions. BAP-578 provides a complete framework for creating, managing, and governing autonomous agent tokens with optional learning capabilities that allow agents to evolve and improve over time.
-https://github.com/bnb-chain/BEPs/blob/master/BAPs/BAP-578.md 
+My work is centred on [ChatChat](https://chatchat.com), powered by the [Living Brain](https://livingbrain.com): a new way for people to create and work with proactive AI agents that can remember, understand context, respond to live information, and coordinate action across tools and time.
 
-### [ChatAndBuild](https://chatandbuild.com)
-ChatAndBuild empowers users to create web applications, games, tools, and platforms simply by describing what they want to build. Our AI-powered platform handles the coding, deployment, and hosting automatically, while users maintain complete ownership of their creations.
-With an intuitive interface and seamless integrations with GitHub, Supabase, and other essential tools, ChatAndBuild bridges the gap between no-code simplicity and coding flexibility—offering both ease of use and unlimited creative potential.
+---
 
-Our mission is to democratise technology creation, transforming the 99.7% of people who can't code but have ideas into empowered builders shaping our digital future.
-https://claude.com/customers/chatandbuild
+## 🧠 What We’re Building
 
+### 💬 [ChatChat](https://chatchat.com)
 
-## 🔭 **Background**
+ChatChat is a messaging-first platform for creating and working with proactive AI agents.
 
-- **Dual Masters** from University of Oxford in AI and Major Programme Management
-- Twitter's **10th international hire** and helped scale global operations
-- Former **VP of Asia** at Brandwatch (acquired for $400M)
-- Previous **early team member** at Zilliqa (Web3 pioneer)
-- Led initiatives that transformed how people create and capture value online
+It brings conversations, agents, knowledge, tools, and memory into one intuitive environment—allowing people to build their own AI teams, collaborate with agents, and turn ideas into execution through natural conversation.
 
-## 💡 **Vision**
+---
 
-To rebuild the internet's economic DNA. We're creating infrastructure that turns:
-- Ideas into applications without coding barriers
-- Passive consumption into active earning
-- Creative energy into autonomous value
+### 🧠 [Living Brain](https://livingbrain.com)
 
-## 📱 **Projects & Contributions**
+The Living Brain is the memory and context infrastructure powering ChatChat.
 
-- Pioneered conversational programming with ChatAndBuild
-- Created a new category through Non-Fungible Agents (NFAs)
-- Built a community through Codechella.org
+It enables AI agents to:
 
+- Retain relevant knowledge and context over time
+- Understand relationships between people, information, events, and goals
+- Respond to changing and live information
+- Coordinate actions across agents, tools, and workflows
+- Maintain continuity beyond a single conversation
 
-## 🔗 **Connect**
+Our goal is to move AI beyond stateless question-answering towards persistent, contextual, and accountable intelligence.
 
-I'm always interested in connecting with fellow builders and visionaries who share our passion for empowerment and accessibility.
+---
+
+### 🛠️ [ChatAndBuild](https://chatandbuild.com)
+
+ChatAndBuild enables people to create applications, AI agents, workflows, games, tools, and digital products simply by describing what they want to build.
+
+The platform handles coding, iteration, deployment, and hosting while giving users ownership and control over what they create.
+
+ChatAndBuild bridges the gap between no-code simplicity and the flexibility of software development—helping more people turn ideas into working products.
+
+[Read the Claude customer story →](https://claude.com/customers/chatandbuild)
+
+---
+
+### 🔓 [Non-Fungible Agents](https://github.com/ChatAndBuild/non-fungible-agents-BAP-578)
+
+Non-Fungible Agents began as a framework for bringing identity, ownership, memory, and continuity to autonomous AI agents.
+
+The project is now open source and formalised through [BAP-578](https://github.com/bnb-chain/BEPs/blob/master/BAPs/BAP-578.md), a standard for intelligent digital entities that combine autonomous capabilities with verifiable ownership.
+
+BAP-578 defines interfaces for creating, managing, evolving, and governing agent-based digital assets, including optional learning and cross-platform interaction capabilities.
+
+[Explore the open-source project →](https://github.com/ChatAndBuild/non-fungible-agents-BAP-578)
+
+---
+
+## 🔭 Background
+
+- Founder and CEO of ChatAndBuild
+- Postgraduate qualifications from the University of Oxford in AI for Business and Major Programme Management
+- Twitter’s **10th international hire**, helping scale its international operations
+- Former **VP Asia at Brandwatch**, acquired for **$400 million**
+- Early team member at Zilliqa
+- Creator of the open-source Non-Fungible Agents framework
+- Founder of Codechella, a community and hackathon platform helping more people build with AI
+
+My work has been featured by **OpenAI, Anthropic, and Google**, and ChatAndBuild has received a Google compute grant.
+
+---
+
+## 💡 Vision
+
+We are building towards a future where AI does more than answer questions.
+
+A future where intelligence can remember, understand context, coordinate with other agents, and continuously help people move from ideas to meaningful action.
+
+We are transforming:
+
+- **Conversations into applications**
+- **Information into living context**
+- **AI assistants into proactive agent teams**
+- **Ideas into execution**
+- **Technology users into technology builders**
+
+---
+
+## 🌐 Ecosystem
+
+| Project | Description |
+|---|---|
+| [ChatChat](https://chatchat.com) | Messaging-first platform for proactive AI agents |
+| [Living Brain](https://livingbrain.com) | Persistent memory and context infrastructure for AI |
+| [ChatAndBuild](https://chatandbuild.com) | Build apps, workflows, agents, and products through conversation |
+| [Abundant Intelligence](https://abundantintelligence.com) | AI education and masterclasses for leaders, teams, and builders |
+| [Codechella](https://codechella.com) | Community and hackathon experiences for building with AI |
+| [Non-Fungible Agents](https://github.com/ChatAndBuild/non-fungible-agents-BAP-578) | Open-source framework for ownable and evolving AI agents |
+
+---
+
+## 🔗 Connect
+
+I’m always interested in connecting with builders, researchers, founders, and partners working to make advanced technology more accessible and empowering.
+
+- 🌐 [ChatAndBuild](https://chatandbuild.com)
+- 💬 [ChatChat](https://chatchat.com)
+- 🧠 [Living Brain](https://livingbrain.com)
+- 💼 [LinkedIn](https://linkedin.com/in/christelquek)
+- 𝕏 [@LADYXTEL](https://twitter.com/ladyxtel)
+
+---
 
 <div align="center">
 
-**"The future belongs to those who build it."**
+### “The future belongs to those who build it.”
 
 </div>
+
