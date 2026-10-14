@@ -32,17 +32,13 @@ Our mission is to make advanced intelligence more accessible, practical, and emp
 
 My work is centred on [ChatChat](https://chatchat.com), powered by the [Living Brain](https://livingbrain.com): a new way for people to create and work with proactive AI agents that can remember, understand context, respond to live information, and coordinate action across tools and time.
 
+[Read the Claude customer story →](https://claude.com/customers/chatandbuild)
+[Read the Google customer story →](https://cloud.google.com/customers/chatandbuild))
+
 ---
 
 ## 🧠 What We’re Building
 
-### 💬 [ChatChat](https://chatchat.com)
-
-ChatChat is a messaging-first platform for creating and working with proactive AI agents.
-
-It brings conversations, agents, knowledge, tools, and memory into one intuitive environment—allowing people to build their own AI teams, collaborate with agents, and turn ideas into execution through natural conversation.
-
----
 
 ### 🧠 [Living Brain](https://livingbrain.com)
 
@@ -60,15 +56,12 @@ Our goal is to move AI beyond stateless question-answering towards persistent, c
 
 ---
 
-### 🛠️ [ChatAndBuild](https://chatandbuild.com)
+### 💬 [ChatChat](https://chatchat.com)
 
-ChatAndBuild enables people to create applications, AI agents, workflows, games, tools, and digital products simply by describing what they want to build.
+ChatChat is a messaging-first platform for creating and working with proactive AI agents.
 
-The platform handles coding, iteration, deployment, and hosting while giving users ownership and control over what they create.
+It brings conversations, agents, knowledge, tools, and memory into one intuitive environment—allowing people to build their own AI teams, collaborate with agents, and turn ideas into execution through natural conversation.
 
-ChatAndBuild bridges the gap between no-code simplicity and the flexibility of software development—helping more people turn ideas into working products.
-
-[Read the Claude customer story →](https://claude.com/customers/chatandbuild)
 
 ---
 
@@ -92,7 +85,6 @@ BAP-578 defines interfaces for creating, managing, evolving, and governing agent
 - Former **VP Asia at Brandwatch**, acquired for **$400 million**
 - Early team member at Zilliqa
 - Creator of the open-source Non-Fungible Agents framework
-- Founder of Codechella, a community and hackathon platform helping more people build with AI
 
 My work has been featured by **OpenAI, Anthropic, and Google**, and ChatAndBuild has received a Google compute grant.
 
@@ -118,11 +110,12 @@ We are transforming:
 
 | Project | Description |
 |---|---|
-| [ChatChat](https://chatchat.com) | Messaging-first platform for proactive AI agents |
+| [ChatAndBuild](https://chatandbuild.com) | Company Website |
 | [Living Brain](https://livingbrain.com) | Persistent memory and context infrastructure for AI |
-| [ChatAndBuild](https://chatandbuild.com) | Build apps, workflows, agents, and products through conversation |
+| [ChatChat](https://chatchat.com) | Messaging-first platform for proactive AI agents |
 | [Abundant Intelligence](https://abundantintelligence.com) | AI education and masterclasses for leaders, teams, and builders |
-| [Codechella](https://codechella.com) | Community and hackathon experiences for building with AI |
+
+
 | [Non-Fungible Agents](https://github.com/ChatAndBuild/non-fungible-agents-BAP-578) | Open-source framework for ownable and evolving AI agents |
 
 ---
